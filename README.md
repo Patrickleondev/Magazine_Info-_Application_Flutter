@@ -31,11 +31,13 @@ Le projet est organisé de manière modulaire avec les composants suivants :
 1. Assurez-vous d'avoir Flutter installé sur votre machine
 2. Clonez ce dépôt :
 ```bash
-git clone [URL-du-repo]
+git clone https://github.com/Patrickleondev/Magazine_Info-_Application_Flutter.git
+
 ```
 3. Naviguez dans le dossier du projet :
 ```bash
-cd activite1
+cd Magazine_Info-_Application_Flutter
+
 ```
 4. Installez les dépendances :
 ```bash
