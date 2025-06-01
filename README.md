@@ -47,13 +47,12 @@ flutter run
 ```
 
 ## Captures d'écran
-[Ajoutez des captures d'écran de votre application ici]
+![alt text](image.png)
 
-## Auteur
-[Votre nom]
+
 
 ## License
-Ce projet est sous licence [type de licence]
+Ce projet est sous licence MIT
 
 ## Remerciements
 - DCLIC Formation
